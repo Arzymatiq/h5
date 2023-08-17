@@ -1,0 +1,8 @@
+.card_block {
+    width: 300px;
+    border: 1px solid black;
+}
+.main_card_block {
+    display: flex;
+    flex-wrap: wrap;
+}
